@@ -7,9 +7,9 @@ A Python and MATLAB implementation of fierClass, a multi-signal, cepstrum-based,
 # Python Implementation
 
 # Authors
-• Simone Gelmini (simone.gelmini@polimi.it, gelminisimon@gmail.com)<br/>
-• Jessica Leoni (jessica.leoni@polimi.it)<br/>
-• Francesco Zinnari (francesco.zinnari@polimi.it)<br/>
+• Simone Gelmini (simone [dot] gelmini [at] polimi [dot] it, gelminisimon [at] gmail [dot] com)<br/>
+• Jessica Leoni (jessica [dot] leoni [at] polimi [dot] it)<br/>
+• Francesco Zinnari (francesco [dot] zinnari [at] polimi [dot] it)<br/>
 
 # Reference
 If you are going to use fierClass in your research project, please cite its reference article:<br/>
