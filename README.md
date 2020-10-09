@@ -5,7 +5,7 @@ A Python and MATLAB implementation of fierClass, a multi-signal, cepstrum-based,
 The MATLAB implementation consits of two files: fierClassTrain and fierClassClassify. Please review the example function provided (example.m) and use the self-contained help provided for each function.
 
 # Python Implementation
-In the Python implementation we follow the more traditional object-oriented approach. Therefore, a Python class called fierClass is initialized whenever the classifier is used. Function fit and fierClassClassify respectively train and the classify the time series.
+In the Python implementation we follow the more traditional object-oriented approach. Therefore, a Python class called fierClass is initialized whenever the classifier is used. Function fit and fierClassClassify respectively train and the classify the time series. Please review the example function provided (main.py) and use the self-contained help provided for each function.
 
 # Authors
 Feel free to reach out to the authors about specific questions or concenrs regarding the method or its implementation:<br/>
