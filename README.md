@@ -9,9 +9,9 @@ In the Python implementation we follow the more traditional object-oriented appr
 
 # Authors
 Feel free to reach out to the authors about specific questions or concenrs regarding the method or its implementation:<br/>
-• Simone Gelmini (simone [dot] gelmini [at] polimi [dot] it, gelminisimon [at] gmail [dot] com)<br/>
-• Jessica Leoni (jessica [dot] leoni [at] polimi [dot] it)<br/>
-• Francesco Zinnari (francesco [dot] zinnari [at] polimi [dot] it)<br/>
+• Simone Gelmini (simone [dot] gelmini [at] polimi [dot] it, gelminisimon [at] gmail [dot] com) is a postdoctoral researcher at the [Global Engineering and Research (GEAR) Lab](https://www.gear.mit.edu/) at the Massachusetts Institute of Technology. Prior to join MIT, he was a PhD student within the [mOve research team](https://www.move.deib.polimi.it/) at Politecnico di Milano<br/>
+• Jessica Leoni (jessica [dot] leoni [at] polimi [dot] it) is a PhD student within the [mOve research team at Politecnico di Milano](https://www.move.deib.polimi.it/)<br/>
+• Francesco Zinnari (francesco [dot] zinnari [at] polimi [dot] it) is a junior research assistant within the [mOve research team at Politecnico di Milano](https://www.move.deib.polimi.it/)<br/>
 
 # Reference
 If you are going to use fierClass in your research project, please cite its reference article:<br/>
