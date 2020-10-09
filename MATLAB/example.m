@@ -5,7 +5,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%% (simone.gelmini@polimi.it) %%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Note: this script is an introductory example for using the functions %%
-%%% designed according to the fierClass algorithmin which the algorithm. %%
+%%% designed according to the fierClass algorithmin. %%%%%%%%%%%%%%%%%%%%%%
 %%% In the present example, the algorithm tries to classify data coming %%%
 %%% from an Inertial Measurement Unit (IMU), comparing the stream of data %
 %%% with respect to a set of examples provided. The classification is %%%%%
